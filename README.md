@@ -1,6 +1,6 @@
 # README
 
-The Open Bank Project API
+The Open Bank Project API 
 
 ## ABOUT
 
